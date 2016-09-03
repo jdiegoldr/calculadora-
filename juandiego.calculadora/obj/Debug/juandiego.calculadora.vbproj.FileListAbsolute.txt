@@ -1,0 +1,4 @@
+C:\Users\Alumno\Desktop\juandiego.calculadora\juandiego.calculadora\bin\Debug\lui_mikel.calculadora.exe.config
+C:\Users\Alumno\Desktop\juandiego.calculadora\juandiego.calculadora\obj\Debug\juandiego.calculadora.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\juandiego.calculadora\juandiego.calculadora\obj\Debug\lui_mikel.calculadora.Form1.resources
+C:\Users\Alumno\Desktop\juandiego.calculadora\juandiego.calculadora\obj\Debug\juandiego.calculadora.vbproj.GenerateResource.Cache
